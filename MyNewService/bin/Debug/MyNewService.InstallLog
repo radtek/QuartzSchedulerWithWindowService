@@ -1,0 +1,87 @@
+﻿Installing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service MyNewService...
+Service MyNewService has been successfully installed.
+Creating EventLog source MyNewService in log Application...
+Committing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Uninstalling assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Removing EventLog source MyNewService.
+Service MyNewService is being removed from the system...
+Service MyNewService was successfully removed from the system.
+Attempt to stop service MyNewService.
+Installing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service MyNewService...
+Service MyNewService has been successfully installed.
+Creating EventLog source MyNewService in log Application...
+Committing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service MyNewService...
+Service MyNewService has been successfully installed.
+Creating EventLog source MyNewService in log Application...
+Committing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service MyNewService...
+Service MyNewService has been successfully installed.
+Creating EventLog source MyNewService in log Application...
+Committing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Installing service MyNewService...
+Service MyNewService has been successfully installed.
+Creating EventLog source MyNewService in log Application...
+Committing assembly 'C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\1024228\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe

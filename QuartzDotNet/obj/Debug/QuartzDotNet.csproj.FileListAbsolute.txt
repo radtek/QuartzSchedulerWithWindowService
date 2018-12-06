@@ -1,0 +1,11 @@
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\bin\Debug\QuartzDotNet.exe.config
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\bin\Debug\QuartzDotNet.exe
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\bin\Debug\QuartzDotNet.pdb
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\bin\Debug\Quartz.dll
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\bin\Debug\Quartz.pdb
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\bin\Debug\Quartz.xml
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\obj\Debug\QuartzDotNet.csprojAssemblyReference.cache
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\obj\Debug\QuartzDotNet.csproj.CoreCompileInputs.cache
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\obj\Debug\QuartzDotNet.csproj.CopyComplete
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\obj\Debug\QuartzDotNet.exe
+C:\Users\1024228\source\repos\QuartzDotNet\QuartzDotNet\obj\Debug\QuartzDotNet.pdb
