@@ -73,7 +73,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\QuartzDotNet\QuartzDotNet\QuartzDotNet.csproj">
+    <ProjectReference Include="..\QuartzDotNet\QuartzDotNet.csproj">
       <Project>{448a5903-f3c5-4072-8f25-90f0069a3de1}</Project>
       <Name>QuartzDotNet</Name>
     </ProjectReference>
